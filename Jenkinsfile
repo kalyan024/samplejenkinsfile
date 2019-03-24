@@ -1,5 +1,5 @@
 pipeline {
-    node('L1')
+    node2('L1')
 
     stages {
         stage('Build') {
